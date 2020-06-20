@@ -7,7 +7,7 @@ class User extends BaseController
 {
     public function index()
     {
-        return 1+1;
+        return 1;
     }
 
     public function hello($name = 'ThinkPHP6')
